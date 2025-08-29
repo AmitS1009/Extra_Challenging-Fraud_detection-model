@@ -10,7 +10,7 @@ This project focuses on developing a high-performance machine learning model to 
 
 The model is trained on a synthetic dataset designed to mimic real-world financial transaction data, sourced from the project brief.
 
-- **Size:** 6,362,620 rows and 11 initial columns.
+- ***Size:*** 6,362,620 rows and 11 initial columns.
 - **Key Features:**
   - `step`: Represents a unit of time (1 step = 1 hour).
   - `type`: The type of transaction (e.g., `CASH_OUT`, `TRANSFER`).
