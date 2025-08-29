@@ -1,12 +1,8 @@
-# Extra_Challenging-Fraud_detection-model
-
-#### The challenge was too handle tremendously huge dataset , with extreme unbalance!!
-
 # High-Performance Fraud Detection Model
 
 ## Project Overview
 
-This project focuses on developing a high-performance machine learning model to detect fraudulent financial transactions. The primary goal is to build an effective classifier using a large-scale synthetic dataset of over 6.3 million transactions and to derive actionable insights to help a financial company improve its fraud prevention infrastructure. The project navigates the challenges of working with massive, highly imbalanced data and emphasizes robust evaluation techniques.
+This project focuses on developing a high-performance machine learning model to detect fraudulent financial transactions. The primary goal is to build an effective classifier using a large-scale synthetic dataset of over 6.3 million+ transactions and to derive actionable insights to help a financial company improve its fraud prevention infrastructure. The project navigates the challenges of working with massive, highly imbalanced data and emphasizes robust evaluation techniques.
 
 ---
 
@@ -14,7 +10,7 @@ This project focuses on developing a high-performance machine learning model to 
 
 The model is trained on a synthetic dataset designed to mimic real-world financial transaction data, sourced from the project brief.
 
-- [cite_start]**Size:** 6,362,620 rows and 10 initial columns[cite: 15].
+- **Size:** 6,362,620 rows and 11 initial columns.
 - **Key Features:**
   - `step`: Represents a unit of time (1 step = 1 hour).
   - `type`: The type of transaction (e.g., `CASH_OUT`, `TRANSFER`).
@@ -79,7 +75,7 @@ The model not only performs well but also provides clear insights into the natur
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/AmitS1009/Extra_Challenging-Fraud_detection-model.git](https://github.com/AmitS1009/Extra_Challenging-Fraud_detection-model.git)
+    git clone https://github.com/AmitS1009/Extra_Challenging-Fraud_detection-model.git
     ```
 2.  Navigate to the project directory:
     ```bash
